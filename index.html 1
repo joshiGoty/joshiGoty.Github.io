@@ -1,23 +1,19 @@
-<html><head>
-<title>
-Index
-</title>
+<html lang="es">
+<head>
+  <title>Ejercicio 1</title>
 </head>
-
 <body>
+  <a href="index.html">Volver al inicio</a>
 
-<a href="index.html">Volver al inicio </a>
-	<h1>
-	Ejercicio 3
-	</h1>
+  <h1>Ejercicio 1</h1>
 
-<a href="Ejercicio1.html">Ejercicio 1</a>
-<a href="Ejercicio2.html">Ejercicio 2</a>
-<a href="Ejercicio3.html">Ejercicio 3</a>
-<br>
-<img src="Ejercicio3.png">
+  <nav>
+    <a href="Ejercicio1.html">Ejercicio 1</a> |
+    <a href="Ejercicio2.html">Ejercicio 2</a> |
+    <a href="Ejercicio3.html">Ejercicio 3</a>
+  </nav>
 
-
-
-
-</body></html>
+  <br>
+  <img src="Ejercicio1.png" alt="Imagen del Ejercicio 1">
+</body>
+</html>
