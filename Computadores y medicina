@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Los Efectos del Uso de la Tecnología de la Información</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f5f7fa;
+      margin: 40px;
+      color: #333;
+    }
+    h1, h2 {
+      color: #003366;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 15px;
+      margin-bottom: 25px;
+    }
+    th, td {
+      border: 1px solid #ccc;
+      padding: 10px;
+      text-align: left;
+    }
+    th {
+      background-color: #003366;
+      color: white;
+    }
+    tr:nth-child(even) {
+      background-color: #e6ecf2;
+    }
+    .section {
+      background-color: white;
+      border-radius: 10px;
+      padding: 20px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      margin-bottom: 30px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Los Efectos del Uso de la Tecnología de la Información</h1>
+  <p><b>Nombre:</b> Joshua Acosta Carreño</p>
+  <p><b>Materia:</b> Informática / ICT</p>
+  <hr>
+
+  <div class="section">
+    <h2>1️⃣ Ventajas del uso de la TI</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Aspecto</th>
+          <th>Descripción</th>
+          <th>Ejemplo</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Comunicación</td>
+          <td>Permite comunicarse de forma instantánea con personas en todo el mundo.</td>
+          <td>Videollamadas, correos electrónicos, redes sociales.</td>
+        </tr>
+        <tr>
+          <td>Educación</td>
+          <td>Facilita el acceso a materiales digitales, cursos y plataformas en línea.</td>
+          <td>Google Classroom, Khan Academy, Moodle.</td>
+        </tr>
+        <tr>
+          <td>Trabajo</td>
+          <td>Fomenta el teletrabajo y mejora la productividad mediante software especializado.</td>
+          <td>Microsoft Teams, Google Workspace.</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="section">
+    <h2>2️⃣ Desventajas del uso de la TI</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Problema</th>
+          <th>Consecuencia</th>
+          <th>Posible Solución</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Dependencia tecnológica</td>
+          <td>Las personas pueden volverse excesivamente dependientes de los dispositivos.</td>
+          <td>Establecer límites de uso y promover actividades fuera de línea.</td>
+        </tr>
+        <tr>
+          <td>Riesgos de seguridad</td>
+          <td>Posibilidad de robo de datos o ataques cibernéticos.</td>
+          <td>Usar contraseñas seguras, antivirus y autenticación de dos factores.</td>
+        </tr>
+        <tr>
+          <td>Impacto social</td>
+          <td>Disminuye la interacción cara a cara y puede generar aislamiento.</td>
+          <td>Fomentar el equilibrio entre vida digital y personal.</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="section">
+    <h2>3️⃣ Efectos de la TI en el hogar</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Dispositivo</th>
+          <th>Función</th>
+          <th>Efecto en la vida diaria</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Asistente virtual</td>
+          <td>Control por voz de dispositivos domésticos.</td>
+          <td>Aumenta la comodidad, pero puede afectar la privacidad.</td>
+        </tr>
+        <tr>
+          <td>Electrodomésticos inteligentes</td>
+          <td>Automatizan tareas como limpieza o cocina.</td>
+          <td>Ahorro de tiempo, pero mayor dependencia tecnológica.</td>
+        </tr>
+        <tr>
+          <td>Televisión inteligente</td>
+          <td>Acceso a contenido en línea.</td>
+          <td>Más entretenimiento, pero fomenta el sedentarismo.</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="section">
+    <h2>4️⃣ Conclusión</h2>
+    <p>El uso de la Tecnología de la Información ha transformado profundamente la manera en que vivimos, trabajamos y aprendemos. 
+    Aunque ofrece ventajas notables en eficiencia, comunicación y comodidad, también plantea desafíos relacionados con la seguridad, la salud y la interacción social. 
+    El equilibrio entre el uso responsable y el aprovechamiento de sus beneficios es clave para un desarrollo sostenible en la era digital.</p>
+  </div>
+
+</body>
+</html>
